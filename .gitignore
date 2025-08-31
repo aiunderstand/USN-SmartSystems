@@ -73,3 +73,7 @@ crashlytics-build.properties
 
 # Apple meta files
 .DS_Store
+
+# JetBrains files
+**/.idea/workspace.xml 
+**/.idea/tasks.xml
